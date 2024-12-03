@@ -1,0 +1,146 @@
+@import url('https://fonts.googleapis.com/css2?family=Waiting+for+the+Sunrise&display=swap');
+h1 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+    color: #570404;
+    text-shadow: -1px 1px 0 #fff700, 1px -1px 0 #fff700, -1px 1px 0 #fff700, 1px 1px 0 #fff700;
+    font-size: 150px; 
+    margin-bottom: 0px;
+}
+
+
+h2, h3, h4, p{
+    color:#570404;
+    text-align: center;
+    font-family: 'Waiting for the Sunrise', serif;
+    font-size: 14px;
+    margin-bottom: 0%;
+}
+
+body{
+    background-color: #fff7e1;
+}
+
+img.logo{
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    background-color: #570404;
+    margin-top: 40px;
+    height: 150px;
+}
+
+
+.titre{
+
+    margin-bottom: 40px;
+    text-align: center;
+    font-family: 'Poiret One', sans-serif;
+    line-height: 1.5;
+    height: 300px;
+    font-size: 64px
+
+}
+
+.hat{
+    margin-bottom: 40px;
+}
+.hat h4{
+    font-family: "Waiting for the Sunrise", serif;
+    font-size: 32pt;
+}
+
+.hat p{
+    font-family: "Waiting for the Sunrise", serif;
+    font-size: 16pt;
+}
+
+
+
+.travaux{
+    background-color: #570404;
+    margin-bottom: 20px;
+    text-transform: center;
+    padding: 20px;
+} 
+
+.travaux h2{
+    color: #fff7e1;
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+    margin-bottom: 20px;
+
+}
+
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px; 
+    justify-content: center;
+    margin-top: 10px;
+    width: left;
+}
+
+.project{    
+    border-radius: 5px; 
+    padding: 10px;
+    max-width: 250px;
+    text-align: left;
+
+}
+
+.miniature{
+    width:100%;
+}
+
+.project h4{
+    color: #fff7e1;
+}
+
+.description{
+    font-size: 0.9rem;
+    color:#fff7e1 ;
+}
+
+
+.video-section{
+    padding:20;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.video-container{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+.iframe{
+    width: 40vw;
+    max-width: 700px;
+    border-radius: 10px;
+}
+
+
+
+
+footer{
+    background-color:#570404;
+    height: 100px;
+}
+
+.mail{
+    color: #fff7e1;
+    padding: 20px;
+    font-family:"Waiting for the Sunrise", serif;
+    font-size: 25px;
+}
